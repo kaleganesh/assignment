@@ -1,0 +1,9 @@
+c:\users\test\documents\visual studio 2015\Projects\scalculatorassignment\scalculatorassignment\bin\Debug\scalculatorassignment.exe.config
+c:\users\test\documents\visual studio 2015\Projects\scalculatorassignment\scalculatorassignment\bin\Debug\scalculatorassignment.exe
+c:\users\test\documents\visual studio 2015\Projects\scalculatorassignment\scalculatorassignment\bin\Debug\scalculatorassignment.pdb
+c:\users\test\documents\visual studio 2015\Projects\scalculatorassignment\scalculatorassignment\obj\Debug\scalculatorassignment.csprojResolveAssemblyReference.cache
+c:\users\test\documents\visual studio 2015\Projects\scalculatorassignment\scalculatorassignment\obj\Debug\scalculatorassignment.Form1.resources
+c:\users\test\documents\visual studio 2015\Projects\scalculatorassignment\scalculatorassignment\obj\Debug\scalculatorassignment.Properties.Resources.resources
+c:\users\test\documents\visual studio 2015\Projects\scalculatorassignment\scalculatorassignment\obj\Debug\scalculatorassignment.csproj.GenerateResource.Cache
+c:\users\test\documents\visual studio 2015\Projects\scalculatorassignment\scalculatorassignment\obj\Debug\scalculatorassignment.exe
+c:\users\test\documents\visual studio 2015\Projects\scalculatorassignment\scalculatorassignment\obj\Debug\scalculatorassignment.pdb
